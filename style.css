@@ -26,3 +26,13 @@ li{
     display:inline;
     padding: 10px;
 }
+
+.baslik{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: maroon;
+}
+
+img{
+    height: 600px;
+    width: 100%;
+}
